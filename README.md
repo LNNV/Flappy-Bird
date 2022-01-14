@@ -8,7 +8,7 @@ Cài đặt Python: https://www.python.org/downloads/
 Cài đặt Pygame: https://www.pygame.org/wiki/GettingStarted
 
 
-*Bước 2: tải project về máy
+*Bước 2: tải project về máy (click vào dòng Dowload Zip ở như trên ảnh để tải file nén của project về)
 ![image](https://user-images.githubusercontent.com/65118262/149517726-1399192d-6c3d-49ce-8a33-2b277081b580.png)
 
 
