@@ -8,7 +8,8 @@ Cài đặt Python: https://www.python.org/downloads/
 Cài đặt Pygame: https://www.pygame.org/wiki/GettingStarted
 
 
-*Bước 2: tải tất cả thư mục và tệp của project và đặt tất cả chung một thư mục.
+*Bước 2: ![image](https://user-images.githubusercontent.com/65118262/149517726-1399192d-6c3d-49ce-8a33-2b277081b580.png)
+
 
 
 Vậy là bạn đã hoàn tất phần cài đặt. Tiếp theo chỉ cần chạy file "Flappy Bird.py" để chơi game
