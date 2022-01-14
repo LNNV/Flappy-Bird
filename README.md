@@ -12,7 +12,7 @@ Cài đặt Pygame: https://www.pygame.org/wiki/GettingStarted
 ![image](https://user-images.githubusercontent.com/65118262/149518034-b4729f11-4318-4093-87cd-4f543c4965f8.png)
 
 
-*Bước 3: giải nén file nén vừa tải về và giải nén.
+*Bước 3: giải nén file nén vừa tải về.
 
 
 
