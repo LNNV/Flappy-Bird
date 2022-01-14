@@ -8,7 +8,8 @@ Cài đặt Python: https://www.python.org/downloads/
 Cài đặt Pygame: https://www.pygame.org/wiki/GettingStarted
 
 
-*Bước 2: ![image](https://user-images.githubusercontent.com/65118262/149517726-1399192d-6c3d-49ce-8a33-2b277081b580.png)
+*Bước 2: tải project về máy
+![image](https://user-images.githubusercontent.com/65118262/149517726-1399192d-6c3d-49ce-8a33-2b277081b580.png)
 
 
 
