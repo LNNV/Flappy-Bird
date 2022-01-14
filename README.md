@@ -2,7 +2,9 @@
 Hướng dẫn cài đặt:
 
 *Bước 1: đảm bảo thiết bị của bạn đã cài đặt Python và thư viện Pygame.
+
 Cài đặt Python: https://www.python.org/downloads/
+
 Cài đặt Pygame: https://www.pygame.org/wiki/GettingStarted
 
 *Bước 2: tải tất cả thư mục và đặt tất cả chung một thư mục.
