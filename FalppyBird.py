@@ -37,7 +37,7 @@ def is_lose(chemnys):
             point_sound.play()
             score += 1
             chemny[2] = 1
-    if bird_box.top >= 600:
+    if bird_box.bottom >= 600:
         die_sound.play() 
         return True
     return False
